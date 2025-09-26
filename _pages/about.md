@@ -19,7 +19,7 @@ redirect_from:
 
 I am a 2022 B.S. student majoring in Information Security at the School of Computer Science and Technology, Xinjiang University. My undergraduate research advisor is Chenyang Lyu<a href='https://scholar.google.com/citations?hl=en&user=0n7cAw0AAAAJ'></a>. Next fall I will join the School of Software Engineering, University of Science and Technology of China (USTC) as an M.S. candidate, supervised by Prof. Bingwu Wang<a href='https://sz.ustc.edu.cn/rcdw_show/289.html'></a>.
 
-My recent research interests lie in large language models (LLMs) and multimodal large models, with a broader focus on understanding and aligning multimodal representations across text, vision, and audio. I am now actively seeking research collaborations and internship opportunities. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My recent research interests lie in large language models (LLMs) and multimodal large models, with a broader focus on understanding and aligning multimodal representations across text, vision, and audio. I am now actively seeking research collaborations and internship opportunities. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=doNlMrwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
