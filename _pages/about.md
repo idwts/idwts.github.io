@@ -19,7 +19,7 @@ redirect_from:
 
 I am a 2022 B.S. student majoring in Information Security at the School of Computer Science and Technology, Xinjiang University. My undergraduate research advisor is Chenyang Lyu<a href='https://scholar.google.com/citations?hl=en&user=0n7cAw0AAAAJ'></a>. Next fall I will join the School of Software Engineering, University of Science and Technology of China (USTC) as an M.S. candidate, supervised by Prof. Bingwu Wang<a href='https://sz.ustc.edu.cn/rcdw_show/289.html'></a>.
 
-My recent research interests lie in large language models (LLMs) and multimodal large models, with a broader focus on understanding and aligning multimodal representations across text, vision, and audio. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My recent research interests lie in large language models (LLMs) and multimodal large models, with a broader focus on understanding and aligning multimodal representations across text, vision, and audio. I am now actively seeking research collaborations and internship opportunities. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -48,16 +48,21 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 - [ Improving LLMs for Programmatic Text Understanding via Iterative Instruction Refinement](https://link.springer.com/chapter/10.1007/978-981-96-9994-0_12), **L. Yan**, C. Lyu, R. Xing, W. Li, Y. Samih, T. Ji, L. Wang, S. Jiang*, **ICIC 2025**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.7 Kaggle Jane Street Real-Time Market Data Forecasting, Silver Medals.
+- 2025.5 ICPC Xinjiang Provincial Contest, Bronze Medal.
+- 2025.4 Kaggle Yale & UNC-CH Geophysical Waveform Inversion, Silver Medals.
+- 2024.11 China College Students’ 'Internet+' Innovation & Entrepreneurship Competition, National Bronze Medal.
+- 2024.10 Intelligent Technology Application Competition, 2nd Prize.
+- 2024.12 Merit Student.
+- 2024.12 National Encouragement Scholarship. etc.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 – 2026.06*, B.S. in Information Security, School of Computer Science and Technology, Xinjiang University
+- *2026.09 – …*, M.S. Student, School of Software Engineering, University of Science and Technology of China
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
