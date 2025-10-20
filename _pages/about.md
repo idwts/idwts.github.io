@@ -48,6 +48,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 - [ Improving LLMs for Programmatic Text Understanding via Iterative Instruction Refinement](https://link.springer.com/chapter/10.1007/978-981-96-9994-0_12), **L. Yan**, C. Lyu, R. Xing, W. Li, Y. Samih, T. Ji, L. Wang, S. Jiang*, **ICIC 2025**
 
 # 🎖 Honors and Awards
+- 2025.7 Kaggle MAP - Charting Student Math Misunderstandings, Silver Medals.
 - 2025.7 Kaggle Jane Street Real-Time Market Data Forecasting, Silver Medals.
 - 2025.5 ICPC Xinjiang Provincial Contest, Bronze Medal.
 - 2025.4 Kaggle Yale & UNC-CH Geophysical Waveform Inversion, Silver Medals.
