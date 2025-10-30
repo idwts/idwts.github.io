@@ -43,7 +43,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 
 - UniAVLM: Unified Large Audio-Visual Language Models for Comprehensive Video Understanding, **L. Yan**, C. Lyu, W. Li, Y. Samih, S. Jiang*, **PRICAI 2025**
 
-- On the Taxonomy, Tasks, and Open Challenges for Multimodal Large Language Models, **L. Yan**,  R. Li, R. Xing, Q. Li, M. Wu, Z. Wang, W. Li, T. Ji, S. Jiang*, C* Lyu, **IEEE SMC 2025**
+- On the Taxonomy, Tasks, and Open Challenges for Multimodal Large Language Models, **L. Yan**,  R. Li, R. Xing, Q. Li, M. Wu, Z. Wang, W. Li, T. Ji, S. Jiang*, C Lyu, **IEEE SMC 2025**
 
 - [ Improving LLMs for Programmatic Text Understanding via Iterative Instruction Refinement](https://link.springer.com/chapter/10.1007/978-981-96-9994-0_12), **L. Yan**, C. Lyu, R. Xing, W. Li, Y. Samih, T. Ji, L. Wang, S. Jiang*, **ICIC 2025**
 
