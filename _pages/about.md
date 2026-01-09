@@ -53,7 +53,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 - 2025.10 Kaggle Jigsaw - Agile Community Rules Classification, Bronze Medals 🥉.
 - 2025.10 Kaggle MAP - Charting Student Math Misunderstandings, Silver Medals 🥈.
 - 2025.7 Kaggle Jane Street Real-Time Market Data Forecasting, Silver Medals 🥈.
-- 2025.5 ICPC Xinjiang Provincial Contest, Bronze Medal 🥉.
+- 2025.5 ACM-ICPC Xinjiang Provincial Contest, Bronze Medal 🥉.
 - 2025.4 Kaggle Yale & UNC-CH Geophysical Waveform Inversion, Silver Medals 🥈.
 - 2025.1 Kaggle Santa 2024 - The Perplexity Permutation Puzzle, Bronze Medals 🥉.
 - 2024.11 China College Students’ 'Internet+' Innovation & Entrepreneurship Competition, National Bronze Medal.
@@ -65,7 +65,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 - *2022.09 – 2026.06*, B.S. in Information Security, School of Computer Science and Technology, Xinjiang University
 - *2026.09 – …*, M.S. Student, School of Software Engineering, University of Science and Technology of China
 
-<div id="mapmyvisitors-container" style="width: 400px; height: 300px; margin: 0 auto;">
+<div id="mapmyvisitors-container" style="width: 400px; height: 300px; margin-left: 0;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=p02vktOnzp-XCU5az1pvX-FZfZSkOG5UlC_lXs1djRk&cl=ffffff&w=a"></script>
 </div>
 
