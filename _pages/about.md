@@ -23,6 +23,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2026.
 - *2026.01*: Visiting students at SUSTech.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by PRICAI 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2025.
@@ -42,9 +43,11 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 </div>
 </div> -->
 
+- [ Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](https://arxiv.org/abs/2601.11061), **L. Yan**<sup>†</sup>, R. Li<sup>†</sup>, G. Chen, Q. Li, J. Geng, W. Li, L. Wang, C. Lyu*, **ICML 2026**
+
 - UniAVLM: Unified Large Audio-Visual Language Models for Comprehensive Video Understanding, **L. Yan**, C. Lyu, W. Li, Y. Samih, S. Jiang*, **PRICAI 2025**
 
-- On the Taxonomy, Tasks, and Open Challenges for Multimodal Large Language Models, **L. Yan**,  R. Li, R. Xing, Q. Li, M. Wu, Z. Wang, W. Li, T. Ji, S. Jiang*, C Lyu, **IEEE SMC 2025**
+- [On the Taxonomy, Tasks, and Open Challenges for Multimodal Large Language Models](https://ieeexplore.ieee.org/abstract/document/11342688), **L. Yan**,  R. Li, R. Xing, Q. Li, M. Wu, Z. Wang, W. Li, T. Ji, S. Jiang*, C Lyu, **IEEE SMC 2025**
 
 - [ Improving LLMs for Programmatic Text Understanding via Iterative Instruction Refinement](https://link.springer.com/chapter/10.1007/978-981-96-9994-0_12), **L. Yan**, C. Lyu, R. Xing, W. Li, Y. Samih, T. Ji, L. Wang, S. Jiang*, **ICIC 2025**
 
