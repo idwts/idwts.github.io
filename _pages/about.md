@@ -45,7 +45,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 
 - [ Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](https://arxiv.org/abs/2601.11061), **L. Yan**<sup>†</sup>, R. Li<sup>†</sup>, G. Chen, Q. Li, J. Geng, W. Li, L. Wang, C. Lyu*, **ICML 2026**
 
-- UniAVLM: Unified Large Audio-Visual Language Models for Comprehensive Video Understanding, **L. Yan**, C. Lyu, W. Li, Y. Samih, S. Jiang*, **PRICAI 2025**
+- [ UniAVLM: Unified Large Audio-Visual Language Models for Comprehensive Video Understanding](https://link.springer.com/chapter/10.1007/978-981-95-7084-3_7), **L. Yan**, C. Lyu, W. Li, Y. Samih, S. Jiang*, **PRICAI 2025**
 
 - [On the Taxonomy, Tasks, and Open Challenges for Multimodal Large Language Models](https://ieeexplore.ieee.org/abstract/document/11342688), **L. Yan**,  R. Li, R. Xing, Q. Li, M. Wu, Z. Wang, W. Li, T. Ji, S. Jiang*, C Lyu, **IEEE SMC 2025**
 
