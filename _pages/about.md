@@ -23,6 +23,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper was accepted by Interspeech 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2026.
 - *2026.01*: Visiting students at SUSTech.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by PRICAI 2025.
