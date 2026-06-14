@@ -15,6 +15,9 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Research Journey"
+    url: "/research-journey/"
+
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
