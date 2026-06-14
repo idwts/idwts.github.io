@@ -3,6 +3,7 @@ permalink: /research-journey/
 title: "科研成长总结"
 excerpt: ""
 author_profile: false
+body_class: research-journey
 ---
 
 - xxx - 2023.12，起点：NLP、计设比赛

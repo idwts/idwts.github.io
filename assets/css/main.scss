@@ -107,3 +107,113 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+body.research-journey {
+    background: #f5f7fa;
+
+    #main {
+        max-width: 1040px;
+        margin-top: 2em;
+        margin-bottom: 4em;
+    }
+
+    .page {
+        float: none;
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .page__inner-wrap {
+        padding: 3.5em 4.5em;
+        border: 1px solid #e8ebef;
+        border-radius: 10px;
+        background: #fff;
+        box-shadow: 0 10px 35px rgba(31, 45, 61, .07);
+    }
+
+    .page__content {
+        color: #30343b;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                     "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+        font-size: 1.05em;
+        line-height: 1.9;
+
+        > ul:first-child {
+            margin: 0 0 2.5em;
+            padding: 1.4em 1.6em 1.1em 3em;
+            border-left: 4px solid #224b8d;
+            border-radius: 0 6px 6px 0;
+            background: #f6f8fb;
+            columns: 2;
+            column-gap: 2.5em;
+
+            li {
+                break-inside: avoid;
+                margin-bottom: .55em;
+                line-height: 1.55;
+            }
+        }
+
+        h1 {
+            margin-top: 2.4em;
+            padding-bottom: .55em;
+            color: #202630;
+            font-size: 1.65em;
+            line-height: 1.45;
+            border-bottom-color: #dfe4ea;
+        }
+
+        p {
+            margin-bottom: 1.15em;
+        }
+
+        p > img {
+            display: block;
+            width: auto;
+            max-width: 680px;
+            max-height: 620px;
+            margin: 1.8em auto 2.6em;
+            border: 1px solid #e6e9ed;
+            border-radius: 6px;
+            box-shadow: 0 6px 20px rgba(31, 45, 61, .09);
+            object-fit: contain;
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    body.research-journey {
+        #main {
+            margin-top: 0;
+            padding: 0;
+        }
+
+        .page__inner-wrap {
+            padding: 2em 1.25em;
+            border: 0;
+            border-radius: 0;
+            box-shadow: none;
+        }
+
+        .page__content {
+            font-size: 1em;
+
+            > ul:first-child {
+                columns: 1;
+                padding-left: 2.5em;
+            }
+
+            h1 {
+                margin-top: 2em;
+                font-size: 1.4em;
+            }
+
+            p > img {
+                max-width: 100%;
+                max-height: none;
+            }
+        }
+    }
+}
