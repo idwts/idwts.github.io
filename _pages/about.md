@@ -54,6 +54,7 @@ My recent research interests lie in large language models (LLMs) and multimodal 
 
 # 🎖 Honors and Awards
 - Kaggle Achievements: Competitions Expert(848 of 202914).
+- 2026.6 **Outstanding Graduate**
 - 2026.1 Kaggle CSIRO - Image2Biomass Prediction, Silver Medals 🥈.
 - 2025.10 Kaggle Jigsaw - Agile Community Rules Classification, Bronze Medals 🥉.
 - 2025.10 Kaggle MAP - Charting Student Math Misunderstandings, Silver Medals 🥈.
